@@ -14,7 +14,7 @@
 
 [Решение задачи 2 - запрос по автору через API сервиса Open Library](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№1/Публичный%20API%20Open%20Library%20Поиск%20по%20автору.JPG)
 
-[Решение задачи 2 - запрос по названию книги через API сервиса Open Library]()
+[Решение задачи 2 - запрос по названию книги через API сервиса Open Library](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№1/Публичный%20API%20Open%20Library%20Поиск%20по%20книге.JPG)
 
 3. Сценарий Foursquare
 4. Напишите сценарий на языке Python, который предложит пользователю ввести интересующую его категорию (например, кофейни, музеи, парки и т.д.).
