@@ -3,6 +3,7 @@
 
 ## Урок 1. Основы клиент-серверного взаимодействия. Парсинг API
 1. Ознакомиться с некоторые интересными API. https://docs.ozon.ru/api/seller/ https://developers.google.com/youtube/v3/getting-started https://spoonacular.com/food-api
+
 [Решение задачи 1 для Озон](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№1/Изучение%20API%20Озон.JPG)
 
 2. Потренируйтесь делать запросы к API. Выберите публичный API, который вас интересует, и потренируйтесь делать API-запросы с помощью Postman. Поэкспериментируйте с различными типами запросов и попробуйте получить различные типы данных.
