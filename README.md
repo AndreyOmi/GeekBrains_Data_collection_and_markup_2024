@@ -8,7 +8,8 @@
 
 [Решение задачи 1 для YouTube(скриншот)](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№1/Изучение%20API%20Youtube_.JPG)
 
-[Решение задачи 1 для Spoonacular]()
+[Решение задачи 1 для Spoonacular](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№1/Изучение%20API%20spoonacular_.JPG)
+
 2. Потренируйтесь делать запросы к API. Выберите публичный API, который вас интересует, и потренируйтесь делать API-запросы с помощью Postman. Поэкспериментируйте с различными типами запросов и попробуйте получить различные типы данных.
 
 3. Сценарий Foursquare
