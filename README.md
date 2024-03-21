@@ -31,5 +31,5 @@
 
 2. Затем сохранить эту информацию в JSON-файле.
 
-[Решение задачи 2 - ссылка на JSON-файл](https://)
+[Решение задачи 2 - ссылка на JSON-файл](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№2/books_from_books.toscrape.com.json)
    
