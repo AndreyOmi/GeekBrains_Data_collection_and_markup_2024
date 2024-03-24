@@ -36,18 +36,18 @@
 ## Урок 3. Системы управления базами данных MongoDB и Кликхаус в Python
 1. Установите MongoDB на локальной машине, а также зарегистрируйтесь в онлайн-сервисе. https://www.mongodb.com/ https://www.mongodb.com/products/compass
 
-[Решение задачи 1 - установленная локальная MongoDB с загруженными данными - скриншот]()
+[Решение задачи 1 - установленная локальная MongoDB с загруженными данными - скриншот](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№3/MongoDB%20с%20загруженными%20данными.JPG)
 
-[Решение задачи 1 - регистрация в облачном сервисе MongoDB - скриншот]()
+[Решение задачи 1 - регистрация в облачном сервисе MongoDB - скриншот](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№3/Регистрация%20в%20облачном%20сервисе%20MongoDB.JPG)
 
 3. Загрузите данные который вы получили на предыдущем уроке путем скрейпинга сайта с помощью Buautiful Soup в MongoDB и создайте базу данных и коллекции для их хранения.
 4. Поэкспериментируйте с различными методами запросов.
 
-[Решение задач 3 - 4 - код в файле .ipynb]()   
+[Решение задач 3 - 4 - код в файле .ipynb](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№3/homework_seminar_3_12-03-2024.ipynb)   
 
 5. Зарегистрируйтесь в ClickHouse.
 6. Загрузите данные в ClickHouse и создайте таблицу для их хранения.
 
-[Решение задач 5 - 6 - скриншот]()
+[Решение задач 5 - 6 - скриншот](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№3/Попытка%20работы%20с%20ClickHouse2.JPG)
 
 Вывод о решении задач 5 - 6: загеристрироваться в ClickHouse получилось, но сервис не выдает API keys для доступа к облачному хранилищу из-за политики ограничений для России, поэтому загрузить данные в облачное хранилище невозможно.
