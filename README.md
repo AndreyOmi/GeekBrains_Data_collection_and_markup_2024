@@ -38,7 +38,7 @@
 
 [Решение задачи 1 - установленная локальная MongoDB с загруженными данными - скриншот](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№3/MongoDB%20с%20загруженными%20данными.JPG)
 
-[Решение задачи 1 - регистрация в облачном сервисе MongoDB - скриншот](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№3/Регистрация%20в%20облачном%20сервисе%20MongoDB.JPG)
+[Решение задачи 1 - проведенная регистрация в облачном сервисе MongoDB - скриншот](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№3/Регистрация%20в%20облачном%20сервисе%20MongoDB.JPG)
 
 3. Загрузите данные который вы получили на предыдущем уроке путем скрейпинга сайта с помощью Buautiful Soup в MongoDB и создайте базу данных и коллекции для их хранения.
 4. Поэкспериментируйте с различными методами запросов.
