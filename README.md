@@ -90,4 +90,4 @@
 
 [Решение задачи - код Scrapy Spider в файле .py](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№5/books_scraper/books_scraper/spiders/book_spider.py)
 
-[Решение задачи - пример выходных данных в файле .json]()
+[Решение задачи - пример выходных данных в файле .json](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№5/books_scraper/books_data_gb_lesson_5.json)
