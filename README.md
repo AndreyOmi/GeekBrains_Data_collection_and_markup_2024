@@ -107,6 +107,6 @@
 
 6. Сохраните очищенный и преобразованный набор данных в новый CSV-файл под названием 'cleaned_house_prices.csv'.
 
-[Решение задачи - код в файле .ipynb]()
+[Решение задачи - код в файле .ipynb](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№8/homework_seminar_8_29-03-2024.ipynb)
 
 [Решение задачи - преобразованный набор данных в файле .csv]()
