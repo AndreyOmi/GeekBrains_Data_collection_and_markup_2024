@@ -88,4 +88,6 @@
 
 Примечание: Пожалуйста, не забывайте соблюдать этические и юридические нормы при веб-скреппинге.
 
-[Решение задачи - код в файле .py]()
+[Решение задачи - код Scrapy Spider в файле .py](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№5/books_scraper/books_scraper/spiders/book_spider.py)
+
+[Решение задачи - пример выходных данных в файле .json]()
